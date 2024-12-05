@@ -1,7 +1,7 @@
 # LR(1) Parser Generator
 
 **Authors**: Gabe Krishnadasan and Marissa Esteban  
-**Date**: (Specify the completion date here)
+**Date**: December 2023
 
 ## Description
 
